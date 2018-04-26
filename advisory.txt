@@ -1,2 +1,3 @@
 conda install -c menpo ffmpeg
 pip install pydub
+pip install speechpy
