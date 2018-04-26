@@ -1,0 +1,2 @@
+conda install -c menpo ffmpeg
+pip install pydub
