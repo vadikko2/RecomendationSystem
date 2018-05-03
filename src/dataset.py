@@ -19,7 +19,7 @@ def init_features(parser_params, f_extr_params):
 		if not track['tags']:
 			exceptions.append(track['file_name'])
 		else:
-			track['features'] = f_extr_params['path_to'] + track['file_name'][:-4]
+			track['features'] = os.path.abspath(f_extr_params['path_to'] + track['file_name'][:-4])
 
 	hlp.dump(
 		info= info, 

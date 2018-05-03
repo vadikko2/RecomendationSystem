@@ -40,7 +40,8 @@ def get_json(path):
     info = []
     for artist, track, file_name in get_track_list(path):
         meta = get_song_tags(artist= artist, track= track)
-        meta['file_name'] = file_name
+        meta['file_name'] =file_name
+        meta['path'] = os.path.abspath(path)
         info.append(meta)
     return info
 
