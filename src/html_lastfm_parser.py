@@ -3,7 +3,7 @@ import lxml.html
 import json
 import re, os
 import sys
-
+import numpy as np
 
 # подгрузка тегов с сайта last.fm
 
@@ -66,9 +66,25 @@ def make_sample(path_from, path_to, user_number):
 # трансформация Y в вид, подходящий для multi-lable classification
 
 
-def y_transform(old_Y):
-    #TODO добавить изменение Y в multi-shot
-    pass 
+def y_statistic(path_with_jsons):
+    labels = set()
+    for json_name in os.listdir(path_with_jsons):
+        meta = json.load(open(os.path.abspath(path_with_jsons+json_name)))
+        for song in meta:
+            for tag in song['tags']:
+                labels.add(tag)
+    return labels
+
+def y_transform(statistic, Y):
+    for y in Y:
+        new_y = list(statistic)
+        for i in range(0, len(new_y)):
+            if new_y[i] in y:
+                new_y[i] = 1
+            else:
+                new_y[i] = 0
+        yield np.asarray(list(new_y))
+
 
 
 

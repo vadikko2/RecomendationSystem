@@ -46,8 +46,8 @@ def make_dataset_for_classifier(path_with_jsons):
     	for sample in meta:
         	features_file  = sample['features']
         	features = pkl.load(open(features_file, "rb" ))
-        	X.append(np.asarray(features))
-        	Y.append(np.asarray(sample['tags']))#TODO сделать препроцессинг тегов
-    return np.asarray(X), np.asarray(Y)
+        	X.append(features)
+        	Y.append(sample['tags'])#TODO сделать препроцессинг тегов
+    return X, Y
 
 
