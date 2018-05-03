@@ -4,7 +4,8 @@ import json
 import re, os
 import sys
 
-# ПОдгрузка тегов с сайта last.fm
+
+# подгрузка тегов с сайта last.fm
 
 
 def get_song_tags(artist = "", track = ""):
@@ -52,7 +53,7 @@ def dump(info, path, user_id):
         json.dump(info, fp)
 
 
-#сделать один семпл выборки (индекс пользователя в базе надо определить где-то снаружи)
+# сделать один семпл выборки (индекс пользователя в базе надо определить где-то снаружи)
 
 
 def make_sample(path_from, path_to, user_number):
@@ -60,6 +61,13 @@ def make_sample(path_from, path_to, user_number):
     dump(info,path_to, user_number)
     return info
 
+
+# трансформация Y в вид, подходящий для multi-lable classification
+
+
+def y_transform(old_Y):
+    #TODO добавить изменение Y в multi-shot
+    pass 
 
 
 
