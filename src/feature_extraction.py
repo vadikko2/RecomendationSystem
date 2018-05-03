@@ -1,10 +1,5 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
-import os, re
+import os, re, sys
 import numpy as np
 import pickle as pkl
 from matplotlib import cm
@@ -15,8 +10,7 @@ import shutil
 import pandas as pd
 from sklearn import preprocessing
 
-
-# In[2]:
+# декодирование всего плейлиста по указанному пути из mp3 в WAV. WAV сохраняется также по указанному пути.
 
 
 def decode(path_from, path_to, file_name, separator):
@@ -32,7 +26,7 @@ def decode(path_from, path_to, file_name, separator):
         print(f'Error: {file} - unsuccessfully decoding. ', e)
 
 
-# In[3]:
+# извлечение Mel Frequency Cepstral Coefficients фитч 
 
 
 def extr_mfcc(path_from, file_name):
@@ -52,7 +46,7 @@ def extr_mfcc(path_from, file_name):
         return (np.asarray([]), np.asarray([]), np.asarray([]))
 
 
-# In[4]:
+# генератор, выбающий имена файлов из плейлиста
 
 
 def get_playlist(path, expantion):
@@ -60,7 +54,7 @@ def get_playlist(path, expantion):
         yield l
 
 
-# In[5]:
+# сохранение по указанному пути признаков 1 трека 
 
 
 def dump(file_name, path_to, data):
@@ -70,7 +64,7 @@ def dump(file_name, path_to, data):
     pkl.dump(data, open(path_to + pkl_name, 'wb'))
 
 
-# In[11]:
+# вывод фитч в виде графика
 
 
 def plot_2d_features(features, range_from, range_to, plotname):
@@ -81,14 +75,14 @@ def plot_2d_features(features, range_from, range_to, plotname):
     plt.show()
 
 
-# In[7]:
+# очистка временной директории для WAV файлов
 
 
 def clear_dir(path):
     shutil.rmtree(os.path.abspath(path))
 
 
-# In[23]:
+# вытаскивает фитчи из всех треков 1го плейлиста и сохраняет их по казанному пути
 
 
 def extract_features(path_from, path_to, tmp_path_for_wavs, separator, methode = 'mfcc', linear = True):
@@ -107,7 +101,14 @@ def extract_features(path_from, path_to, tmp_path_for_wavs, separator, methode =
                     dump(file_name, path_to, normalize(features[1], linear=linear))
                 elif methode == 'mfcc_feature_cube':
                     dump(file_name, path_to, normalize(features[2], linear=linear))
+                else:
+                	print("Error: incorrect methode's name")
+                	exit()
         clear_dir(tmp_path_for_wavs)
+
+
+# нормализация
+
 
 def normalize(features, linear = True):
     X = pd.DataFrame(features)
@@ -118,8 +119,11 @@ def normalize(features, linear = True):
         scalar = preprocessing.QuantileTransformer().fit(X)
     return scalar.transform(X)
 
-# In[26]:
+
+
+
 
 if __name__ == '__main__':
-    extract_features(path_from= '.\\tracks\\', path_to= '.\\mfccs\\', tmp_path_for_wavs='.\\wavs\\', separator= '\\')
+    extract_features(path_from= sys.argv[1], path_to= sys.argv[2], tmp_path_for_wavs=sys.argv[3], 
+    						separator= sys.argv[4], methode=sys.argv[5], linear=bool(sys.argv[6]))
 

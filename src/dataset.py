@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[3]:
-
 
 import numpy as np
 import os
@@ -10,7 +6,7 @@ import json
 import pickle as pkl
 
 
-# In[6]:
+# собирает выборку в окончательный вид
 
 
 def make_dataset(json_name):

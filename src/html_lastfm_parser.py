@@ -1,16 +1,11 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
 import requests as req
 import lxml.html
 import json
 import re, os
 import sys
 
-# In[2]:
+# ПОдгрузка тегов с сайта last.fm
 
 
 def get_song_tags(artist = "", track = ""):
@@ -25,7 +20,7 @@ def get_song_tags(artist = "", track = ""):
     return track_dict
 
 
-# In[3]:
+# парсинг плейлиста пользователя
 
 
 def get_track_list(path):
@@ -38,12 +33,11 @@ def get_track_list(path):
         yield track_info[0], track_info[1], file
 
 
-# In[8]:
+# генерация json файла с тегами. 1 ползователь -> 1 json
 
 
 def get_json(path):
     info = []
-    #TODO добавить проверку на наличие тегов. Если нет тегов дальше ничего не делаем
     for artist, track, file_name in get_track_list(path):
         meta = get_song_tags(artist= artist, track= track)
         meta['file_name'] = file_name
@@ -52,7 +46,7 @@ def get_json(path):
     return info
 
 
-# In[5]:
+# сохранение json-а в файл по указанному пути
 
 
 def dump(info, path, user_id):
@@ -60,11 +54,18 @@ def dump(info, path, user_id):
         json.dump(info, fp)
 
 
+#сделать один семпл выборки (индекс пользователя в базе надо определить где-то снаружи)
+
+
 def make_sample(path_from, path_to, user_number):
-	info = get_json(path_from)# './/tracks//'
-	dump(info,path_to, user_number)# '', 1
+	info = get_json(path_from)
+	dump(info,path_to, user_number)
 	#TODO После генерации фитч добавить в json поле 'features' чтобы можно было обращаться на прямую
+
+
+
+
 if __name__ == '__main__':
-	make_sample(sys.argv[1], sys.argv[2], int(sys.argv[3]))# './/tracks//', '', 1
+	make_sample(sys.argv[1], sys.argv[2], int(sys.argv[3]))
 	
 
