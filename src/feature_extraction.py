@@ -1,4 +1,3 @@
-
 import os, re, sys
 import numpy as np
 import pickle as pkl
@@ -85,11 +84,11 @@ def clear_dir(path):
 # вытаскивает фитчи из всех треков 1го плейлиста и сохраняет их по казанному пути
 
 
-def extract_features(path_from, path_to, tmp_path_for_wavs, excentions, separator, methode = 'mfcc', linear = True):
+def extract_features(path_from, path_to, tmp_path_for_wavs, exceptions, separator, methode = 'mfcc', linear = True):
     if os.path.exists(tmp_path_for_wavs):
         clear_dir(tmp_path_for_wavs)
     for file_name in get_playlist(path_from, '.mp3'):
-    	if not (file_name in expantions):
+    	if not (file_name in exceptions):
 	        #декодируем один трек во временную папку
 	        decode(path_from = path_from, path_to = tmp_path_for_wavs, file_name = file_name, separator = separator)
 	        #вытаскиваем все wav-ки все wav-ки из временной папки

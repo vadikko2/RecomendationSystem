@@ -1,4 +1,3 @@
-
 import requests as req
 import lxml.html
 import json
@@ -57,8 +56,8 @@ def dump(info, path, user_id):
 
 
 def make_sample(path_from, path_to, user_number):
-	info = get_json(path_from)
-	dump(info,path_to, user_number)
+    info = get_json(path_from)
+    dump(info,path_to, user_number)
     return info
 
 
