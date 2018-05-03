@@ -85,26 +85,27 @@ def clear_dir(path):
 # вытаскивает фитчи из всех треков 1го плейлиста и сохраняет их по казанному пути
 
 
-def extract_features(path_from, path_to, tmp_path_for_wavs, separator, methode = 'mfcc', linear = True):
+def extract_features(path_from, path_to, tmp_path_for_wavs, excentions, separator, methode = 'mfcc', linear = True):
     if os.path.exists(tmp_path_for_wavs):
         clear_dir(tmp_path_for_wavs)
     for file_name in get_playlist(path_from, '.mp3'):
-        #декодируем один трек во временную папку
-        decode(path_from = path_from, path_to = tmp_path_for_wavs, file_name = file_name, separator = separator)
-        #вытаскиваем все wav-ки все wav-ки из временной папки
-        for wav_files in get_playlist(tmp_path_for_wavs, '.wav'):
-            features = extr_mfcc(tmp_path_for_wavs,wav_files)
-            if len(features[0]):
-                if methode == 'mfcc':
-                    dump(file_name, path_to, normalize(features[0], linear=linear))
-                elif methode == 'mfcc_cmvn':
-                    dump(file_name, path_to, normalize(features[1], linear=linear))
-                elif methode == 'mfcc_feature_cube':
-                    dump(file_name, path_to, normalize(features[2], linear=linear))
-                else:
-                	print("Error: incorrect methode's name")
-                	exit()
-        clear_dir(tmp_path_for_wavs)
+    	if not (file_name in expantions):
+	        #декодируем один трек во временную папку
+	        decode(path_from = path_from, path_to = tmp_path_for_wavs, file_name = file_name, separator = separator)
+	        #вытаскиваем все wav-ки все wav-ки из временной папки
+	        for wav_files in get_playlist(tmp_path_for_wavs, '.wav'):
+	            features = extr_mfcc(tmp_path_for_wavs,wav_files)
+	            if len(features[0]):
+	                if methode == 'mfcc':
+	                    dump(file_name, path_to, normalize(features[0], linear=linear))
+	                elif methode == 'mfcc_cmvn':
+	                    dump(file_name, path_to, normalize(features[1], linear=linear))
+	                elif methode == 'mfcc_feature_cube':
+	                    dump(file_name, path_to, normalize(features[2], linear=linear))
+	                else:
+	                	print("Error: incorrect methode's name")
+	                	exit()
+	        clear_dir(tmp_path_for_wavs)
 
 
 # нормализация

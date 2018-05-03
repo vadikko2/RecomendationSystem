@@ -41,8 +41,7 @@ def get_json(path):
     for artist, track, file_name in get_track_list(path):
         meta = get_song_tags(artist= artist, track= track)
         meta['file_name'] = file_name
-        if meta['tags']:
-            info.append(meta)
+        info.append(meta)
     return info
 
 
@@ -60,7 +59,7 @@ def dump(info, path, user_id):
 def make_sample(path_from, path_to, user_number):
 	info = get_json(path_from)
 	dump(info,path_to, user_number)
-	#TODO После генерации фитч добавить в json поле 'features' чтобы можно было обращаться на прямую
+    return info
 
 
 
