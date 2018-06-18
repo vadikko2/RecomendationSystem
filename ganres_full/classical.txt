@@ -1,0 +1,132 @@
+Classical
+Romantic
+Bagatelle
+Ballade
+Ballet
+Classical ballet
+Caprice
+Carol
+Concerto
+Cello concerto
+Clarinet concerto
+Double bass concerto
+Flute concerto
+Oboe concerto
+Piano concerto
+Trumpet concerto
+Viola concerto
+Violin concerto
+Dance
+Divertimento
+Etude
+Impromptu
+Intermezzo
+Mass
+Mazurka
+March
+Music hall
+Nocturne
+Opera
+Ballad opera
+Opera buffa
+Opera comique
+Opera seria
+Operetta
+Overture
+Concert overture
+Symphonic poem
+Singspiel
+Zarzuela
+Concert Aria
+Oratorio
+Polonaise
+Prelude
+Quartet
+Piano quartet
+String quartet
+Oboe quartet
+Quintet
+Piano quintet
+String quintet
+Requiem
+Rhapsody
+Rondo
+Scherzo
+Serenade
+Sinfonia concertante
+Sonata
+Piano sonata
+Violin sonata
+Viola sonata
+Cello sonata
+Flute sonata
+Clarinet sonata
+Bassoon sonata
+Symphony
+Program symphony
+Choral symphony
+Suite
+Waltz
+Ballata
+Estampie
+Gregorian Chant
+Madrigal (Trecento)
+Motet
+Organum
+Saltarello
+Medieval
+Ballade
+Canzona
+Carol
+Chanson
+Fantasia
+Chromatic fantasia
+Galliard
+Intermedio
+Laude
+Litany
+Madrigal
+Madrigal comedy
+Madrigale spirituale
+Mass
+Cyclic mass
+Parody mass
+Paraphrase mass
+Cantus firmus mass
+Motet
+Motet-chanson
+Opera
+Pavane
+Ricercar
+Sequence
+Tiento
+Toccata
+Renaissance
+Allemande
+Canon
+Cantata
+Chaconne
+Concerto
+Concerto grosso
+Solo concerto
+Courante
+Fugue
+Gavotte
+Gigue
+Mass
+Minuet
+Opera
+Opera buffa
+Opera seria
+Oratorio
+Partita
+Passacaglia
+Passepied
+Prelude
+Sarabande
+Sinfonia
+Sonata
+Flute sonata
+Trio sonata
+Suite
+Baroque

@@ -1,0 +1,517 @@
+[
+    {
+        "artist": "A Ha",
+        "file_name": "A Ha - Early Morning.mp3",
+        "tags": [
+            "pop",
+            "new wave"
+        ],
+        "track": "Early Morning"
+    },
+    {
+        "artist": "Asia",
+        "file_name": "Asia - Only Time Will Tell.mp3",
+        "tags": [
+            "classic rock",
+            "progressive rock",
+            "rock"
+        ],
+        "track": "Only Time Will Tell"
+    },
+    {
+        "artist": "C.W. McCall",
+        "file_name": "C.W. McCall - Flowers on the wall.mp3",
+        "tags": [
+            "country",
+            "classic country",
+            "trucker"
+        ],
+        "track": "Flowers on the wall"
+    },
+    {
+        "artist": "C.W.McCall",
+        "file_name": "C.W.McCall - Convoy.mp3",
+        "tags": [
+            "country",
+            "classic country",
+            "trucking anthems"
+        ],
+        "track": "Convoy"
+    },
+    {
+        "artist": "Chris Hadfield",
+        "file_name": "Chris Hadfield - Beyond The Terra.mp3",
+        "tags": [
+            "canadian",
+            "space",
+            "astronaut"
+        ],
+        "track": "Beyond The Terra"
+    },
+    {
+        "artist": "Chuck Berry",
+        "file_name": "Chuck Berry - You Never Can Tell.mp3",
+        "tags": [
+            "rock and roll",
+            "oldies",
+            "soundtrack",
+            "fip",
+            "classic rock",
+            "pulp fiction"
+        ],
+        "track": "You Never Can Tell"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "file_name": "Creedence Clearwater Revival - Cotton Fields.mp3",
+        "tags": [
+            "classic rock",
+            "southern rock",
+            "country",
+            "rock"
+        ],
+        "track": "Cotton Fields"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "file_name": "Creedence Clearwater Revival - Have You Ever See The Rain.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "southern rock"
+        ],
+        "track": "Have You Ever See The Rain"
+    },
+    {
+        "artist": "David Bowie",
+        "file_name": "David Bowie - The Man Who Sold The World.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "glam rock",
+            "david bowie"
+        ],
+        "track": "The Man Who Sold The World"
+    },
+    {
+        "artist": "Fiona Apple",
+        "file_name": "Fiona Apple - Slow Like Honey (Album Version).mp3",
+        "tags": [
+            "female vocalists",
+            "singer songwriter",
+            "alternative",
+            "piano",
+            "indie"
+        ],
+        "track": "Slow Like Honey (Album Version)"
+    },
+    {
+        "artist": "Foster The People",
+        "file_name": "Foster The People - Pumped Up Kicks.mp3",
+        "tags": [
+            "indie",
+            "indie pop",
+            "catchy",
+            "summer",
+            "happy"
+        ],
+        "track": "Pumped Up Kicks"
+    },
+    {
+        "artist": "Hall  Oates",
+        "file_name": "Hall  Oates - Maneater.mp3",
+        "tags": [
+            "pop",
+            "soft rock",
+            "rock"
+        ],
+        "track": "Maneater"
+    },
+    {
+        "artist": "John Lenon",
+        "file_name": "John Lenon - Like Starting Over.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "singer songwriter",
+            "british",
+            "pop"
+        ],
+        "track": "Like Starting Over"
+    },
+    {
+        "artist": "John Lenon",
+        "file_name": "John Lenon - Watching the wheels.mp3",
+        "tags": [
+            "classic rock",
+            "john lennon",
+            "rock",
+            "singer songwriter"
+        ],
+        "track": "Watching the wheels"
+    },
+    {
+        "artist": "John Lenon",
+        "file_name": "John Lenon - Woman.mp3",
+        "tags": [
+            "classic rock",
+            "john lennon",
+            "rock",
+            "singer songwriter"
+        ],
+        "track": "Woman"
+    },
+    {
+        "artist": "Johnny Cash",
+        "file_name": "Johnny Cash - Man In Black.mp3",
+        "tags": [
+            "country",
+            "johnny cash",
+            "folk",
+            "singer songwriter"
+        ],
+        "track": "Man In Black"
+    },
+    {
+        "artist": "Johnny Rebel",
+        "file_name": "Johnny Rebel - Reparations.mp3",
+        "tags": [
+            "country",
+            "rockabilly",
+            "acoustic",
+            "singer songwritter",
+            "racist country",
+            "racism"
+        ],
+        "track": "Reparations"
+    },
+    {
+        "artist": "Louis Armstrong",
+        "file_name": "Louis Armstrong - What A Wonderful World.mp3",
+        "tags": [
+            "jazz",
+            "oldies",
+            "blues",
+            "louis armstrong"
+        ],
+        "track": "What A Wonderful World"
+    },
+    {
+        "artist": "Louis Armstrong and His All Stars",
+        "file_name": "Louis Armstrong and His All Stars - A Kiss to Build a Dream On.mp3",
+        "tags": [
+            "dixieland",
+            "trumpet",
+            "jazz",
+            "blues",
+            "swing"
+        ],
+        "track": "A Kiss to Build a Dream On"
+    },
+    {
+        "artist": "Mike Oldfield",
+        "file_name": "Mike Oldfield - Nuclear.mp3",
+        "tags": [
+            "rock",
+            "progressive rock",
+            "mgs"
+        ],
+        "track": "Nuclear"
+    },
+    {
+        "artist": "New Order",
+        "file_name": "New Order - Elegia.mp3",
+        "tags": [
+            "instrumental",
+            "electronic",
+            "new wave",
+            "ambient"
+        ],
+        "track": "Elegia"
+    },
+    {
+        "artist": "Poets Of The Fall",
+        "file_name": "Poets Of The Fall - Late Goodby.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "finnish",
+            "alternative",
+            "indie"
+        ],
+        "track": "Late Goodby"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - Friends will be Friends.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "british"
+        ],
+        "track": "Friends will be Friends"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - I Want It All.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "hard rock"
+        ],
+        "track": "I Want It All"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - I Want To Break Free.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "glam rock"
+        ],
+        "track": "I Want To Break Free"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - I was born to love you.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "hard rock"
+        ],
+        "track": "I was born to love you"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - Princes of the Universe.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "soundtrack"
+        ],
+        "track": "Princes of the Universe"
+    },
+    {
+        "artist": "Queen",
+        "file_name": "Queen - The Miracle.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "glam rock"
+        ],
+        "track": "The Miracle"
+    },
+    {
+        "artist": "Queen and David Bowie",
+        "file_name": "Queen and David Bowie - Under Pressure.mp3",
+        "tags": [
+            "classic rock",
+            "queen",
+            "rock",
+            "glam rock"
+        ],
+        "track": "Under Pressure"
+    },
+    {
+        "artist": "R.E.M.",
+        "file_name": "R.E.M. - Losing My Religion.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "rem"
+        ],
+        "track": "Losing My Religion"
+    },
+    {
+        "artist": "Roy Orbison",
+        "file_name": "Roy Orbison - Only the Lonely.mp3",
+        "tags": [
+            "oldies",
+            "classic rock",
+            "rock n roll"
+        ],
+        "track": "Only the Lonely"
+    },
+    {
+        "artist": "Sam Cooke",
+        "file_name": "Sam Cooke - Nothing Can Change This Love.mp3",
+        "tags": [
+            "soul",
+            "oldies",
+            "romantic"
+        ],
+        "track": "Nothing Can Change This Love"
+    },
+    {
+        "artist": "Sam Cooke",
+        "file_name": "Sam Cooke - Win Your Love for Me.mp3",
+        "tags": [
+            "soul",
+            "rhythm and blues",
+            "oldies",
+            "fip"
+        ],
+        "track": "Win Your Love for Me"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - Burning Heart.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "soundtrack",
+            "hard rock"
+        ],
+        "track": "Burning Heart"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - Eye of the Tiger.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "soundtrack"
+        ],
+        "track": "Eye of the Tiger"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - Half Life.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "aor"
+        ],
+        "track": "Half Life"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - High On You.mp3",
+        "tags": [
+            "rock",
+            "classic rock",
+            "arena rock"
+        ],
+        "track": "High On You"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - I See You In Everyone.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "album rock",
+            "melodic rock"
+        ],
+        "track": "I See You In Everyone"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - Is This Love.mp3",
+        "tags": [
+            "rock",
+            "classic rock"
+        ],
+        "track": "Is This Love"
+    },
+    {
+        "artist": "Survivor",
+        "file_name": "Survivor - The Search Is Over.mp3",
+        "tags": [
+            "classic rock",
+            "power ballad",
+            "rock",
+            "love songs"
+        ],
+        "track": "The Search Is Over"
+    },
+    {
+        "artist": "The Beatles",
+        "file_name": "The Beatles - Help.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "british",
+            "the beatles"
+        ],
+        "track": "Help"
+    },
+    {
+        "artist": "The Beatles",
+        "file_name": "The Beatles - Twist and Shout.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "british",
+            "the beatles",
+            "cover"
+        ],
+        "track": "Twist and Shout"
+    },
+    {
+        "artist": "The Dave Brubeck Quartet",
+        "file_name": "The Dave Brubeck Quartet - Unsquare Dance.mp3",
+        "tags": [
+            "jazz",
+            "piano",
+            "jazz instrumental"
+        ],
+        "track": "Unsquare Dance"
+    },
+    {
+        "artist": "The Highwaymen",
+        "file_name": "The Highwaymen - Highway Man.mp3",
+        "tags": [
+            "country",
+            "beautiful"
+        ],
+        "track": "Highway Man"
+    },
+    {
+        "artist": "The Jimi Hendrix Experience",
+        "file_name": "The Jimi Hendrix Experience - All Along the Watchtower.mp3",
+        "tags": [
+            "classic rock",
+            "psychedelic rock",
+            "rock",
+            "jimi hendrix"
+        ],
+        "track": "All Along the Watchtower"
+    },
+    {
+        "artist": "The Lively Ones",
+        "file_name": "The Lively Ones - Surf Rider.mp3",
+        "tags": [
+            "surf",
+            "instrumental",
+            "soundtrack",
+            "surf rock",
+            "pulp fiction",
+            "fip"
+        ],
+        "track": "Surf Rider"
+    },
+    {
+        "artist": "The Shadows",
+        "file_name": "The Shadows - Man of Mystery (2004 Remastered Version).mp3",
+        "tags": [
+            "instrumental",
+            "classic rock",
+            "rock",
+            "oldies"
+        ],
+        "track": "Man of Mystery (2004 Remastered Version)"
+    },
+    {
+        "artist": "The Zombies",
+        "file_name": "The Zombies - I Love You.mp3",
+        "tags": [
+            "classic rock",
+            "british invasion"
+        ],
+        "track": "I Love You"
+    }
+]

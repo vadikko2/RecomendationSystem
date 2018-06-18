@@ -5,11 +5,21 @@
         "tags": [
             "rap",
             "hip hop",
-            "2pac",
             "gangsta rap",
             "hip hop"
         ],
         "track": "Dear Mama"
+    },
+    {
+        "artist": "a ha",
+        "file_name": "a ha - Crying in the Rain.mp3",
+        "tags": [
+            "pop",
+            "new wave",
+            "a ha",
+            "norwegian"
+        ],
+        "track": "Crying in the Rain"
     },
     {
         "artist": "AC_DC",
@@ -23,22 +33,310 @@
         "track": "Hells Bells"
     },
     {
+        "artist": "Andrew Morris",
+        "file_name": "Andrew Morris - Dust.mp3",
+        "tags": [
+            "australian"
+        ],
+        "track": "Dust"
+    },
+    {
+        "artist": "Barenaked Ladies",
+        "file_name": "Barenaked Ladies - Big Bang Theory Theme.mp3",
+        "tags": [
+            "big bang theory",
+            "theme song",
+            "soundtrack",
+            "nerdcore"
+        ],
+        "track": "Big Bang Theory Theme"
+    },
+    {
+        "artist": "Bee Gees",
+        "file_name": "Bee Gees - Spicks And Specks.mp3",
+        "tags": [
+            "oldies",
+            "pop",
+            "bee gees"
+        ],
+        "track": "Spicks And Specks"
+    },
+    {
+        "artist": "Bee Gees",
+        "file_name": "Bee Gees - Stayn Alive.mp3",
+        "tags": [
+            "disco",
+            "pop",
+            "classic rock",
+            "oldies"
+        ],
+        "track": "Stayn Alive"
+    },
+    {
+        "artist": "Black Veil Brides",
+        "file_name": "Black Veil Brides - In the End.mp3",
+        "tags": [
+            "hard rock",
+            "emo",
+            "emocore",
+            "music choice: rock"
+        ],
+        "track": "In the End"
+    },
+    {
+        "artist": "Blink 182",
+        "file_name": "Blink 182 - All The Small Things.mp3",
+        "tags": [
+            "punk rock",
+            "pop punk",
+            "rock",
+            "punk"
+        ],
+        "track": "All The Small Things"
+    },
+    {
+        "artist": "Blink 182",
+        "file_name": "Blink 182 - Love is Dangerous.mp3",
+        "tags": [
+            "pop punk",
+            "rock",
+            "punk rock",
+            "punk"
+        ],
+        "track": "Love is Dangerous"
+    },
+    {
+        "artist": "Blink 182",
+        "file_name": "Blink 182 - Phantom of the Opera.mp3",
+        "tags": [
+            "punk rock",
+            "pop punk",
+            "punk",
+            "rock",
+            "alternative"
+        ],
+        "track": "Phantom of the Opera"
+    },
+    {
+        "artist": "Blink 182",
+        "file_name": "Blink 182 - Stockholm Syndrome.mp3",
+        "tags": [
+            "punk rock",
+            "pop punk",
+            "alternative rock",
+            "rock",
+            "punk"
+        ],
+        "track": "Stockholm Syndrome"
+    },
+    {
+        "artist": "Blink 182",
+        "file_name": "Blink 182 - Whats My Age Again.mp3",
+        "tags": [
+            "punk rock",
+            "pop punk",
+            "punk",
+            "rock"
+        ],
+        "track": "Whats My Age Again"
+    },
+    {
+        "artist": "Blonde Redhead",
+        "file_name": "Blonde Redhead - For The Damaged Coda  (OST Rick and Morty S1Ep10).mp3",
+        "tags": [
+            "indie",
+            "indie rock",
+            "female vocalists",
+            "alternative",
+            "rock"
+        ],
+        "track": "For The Damaged Coda  (OST Rick and Morty S1Ep10)"
+    },
+    {
+        "artist": "Bob Dylan",
+        "file_name": "Bob Dylan - Knocking on heavens door.mp3",
+        "tags": [
+            "classic rock",
+            "folk",
+            "rock",
+            "singer songwriter",
+            "folk rock"
+        ],
+        "track": "Knocking on heavens door"
+    },
+    {
+        "artist": "Brad Breeck",
+        "file_name": "Brad Breeck - Mr. Brightside at Gravity Falls (feat. The Killers).mp3",
+        "tags": [
+            "soundtrack",
+            "voltron"
+        ],
+        "track": "Mr. Brightside at Gravity Falls (feat. The Killers)"
+    },
+    {
+        "artist": "Coldplay",
+        "file_name": "Coldplay - Atlas.mp3",
+        "tags": [
+            "soundtrack",
+            "catching fire",
+            "alternative",
+            "pop"
+        ],
+        "track": "Atlas"
+    },
+    {
+        "artist": "Coldplay",
+        "file_name": "Coldplay - Viva La Vida.mp3",
+        "tags": [
+            "alternative",
+            "rock",
+            "alternative rock"
+        ],
+        "track": "Viva La Vida"
+    },
+    {
+        "artist": "Deuce",
+        "file_name": "Deuce - 01. The One.mp3",
+        "tags": [
+            "rapcore",
+            "hip hop",
+            "rap",
+            "hollywood undead"
+        ],
+        "track": "01. The One"
+    },
+    {
+        "artist": "Dispatch",
+        "file_name": "Dispatch - Circles Around The Sun.mp3",
+        "tags": [
+            "catchy",
+            "rock",
+            "awesome",
+            "energetic"
+        ],
+        "track": "Circles Around The Sun"
+    },
+    {
         "artist": "DJ Snake",
         "file_name": "DJ Snake - Magenta Riddim.mp3",
         "tags": [
             "party",
-            "2018",
-            "moombahton",
-            "2018 single"
+            "moombahton"
         ],
         "track": "Magenta Riddim"
+    },
+    {
+        "artist": "Dragonforce",
+        "file_name": "Dragonforce - Black Fire 2010.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "metal",
+            "extreme power metal"
+        ],
+        "track": "Black Fire 2010"
+    },
+    {
+        "artist": "DragonForce",
+        "file_name": "DragonForce - Cry For Eternity.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "extreme power metal",
+            "metal"
+        ],
+        "track": "Cry For Eternity"
+    },
+    {
+        "artist": "DragonForce",
+        "file_name": "DragonForce - Cry Of The Brave.mp3",
+        "tags": [
+            "power metal",
+            "metal",
+            "speed metal"
+        ],
+        "track": "Cry Of The Brave"
+    },
+    {
+        "artist": "Dragonforce",
+        "file_name": "Dragonforce - Disciples Of Babylon.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "metal",
+            "heavy metal"
+        ],
+        "track": "Disciples Of Babylon"
+    },
+    {
+        "artist": "Dragonforce",
+        "file_name": "Dragonforce - My Spirit Will Go On.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "extreme power metal",
+            "metal"
+        ],
+        "track": "My Spirit Will Go On"
+    },
+    {
+        "artist": "DragonForce",
+        "file_name": "DragonForce - Revolution Deathsquad.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "extreme power metal",
+            "metal"
+        ],
+        "track": "Revolution Deathsquad"
+    },
+    {
+        "artist": "Dragonforce",
+        "file_name": "Dragonforce - Trough The Fire And Flames.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "metal",
+            "extreme power metal"
+        ],
+        "track": "Trough The Fire And Flames"
+    },
+    {
+        "artist": "Dragonforce",
+        "file_name": "Dragonforce - Valley of the Damned 2010.mp3",
+        "tags": [
+            "power metal",
+            "speed metal",
+            "metal",
+            "extreme power metal"
+        ],
+        "track": "Valley of the Damned 2010"
+    },
+    {
+        "artist": "Dropkick Murphys",
+        "file_name": "Dropkick Murphys - Rose Tattoo.mp3",
+        "tags": [
+            "folk",
+            "folk punk rock",
+            "folk punk"
+        ],
+        "track": "Rose Tattoo"
+    },
+    {
+        "artist": "Edwin Star",
+        "file_name": "Edwin Star - War.mp3",
+        "tags": [
+            "soul",
+            "funk",
+            "motown"
+        ],
+        "track": "War"
     },
     {
         "artist": "Elthon John",
         "file_name": "Elthon John - Sacrifice.mp3",
         "tags": [
             "pop",
-            "80s",
             "elton john",
             "classic rock",
             "british"
@@ -50,10 +348,40 @@
         "file_name": "Eminem - Framed.mp3",
         "tags": [
             "american",
-            "2018 single",
             "return to origins"
         ],
         "track": "Framed"
+    },
+    {
+        "artist": "Fools garden",
+        "file_name": "Fools garden - Yellow Lemon Tree.mp3",
+        "tags": [
+            "pop",
+            "soft rock",
+            "rock",
+            "german"
+        ],
+        "track": "Yellow Lemon Tree"
+    },
+    {
+        "artist": "Foreigner",
+        "file_name": "Foreigner - Cold As Ice.mp3",
+        "tags": [
+            "classic rock",
+            "rock"
+        ],
+        "track": "Cold As Ice"
+    },
+    {
+        "artist": "Ghoultown",
+        "file_name": "Ghoultown - Drink with the Living Dead.mp3",
+        "tags": [
+            "psychobilly",
+            "horror country",
+            "gothabilly",
+            "drinking songs"
+        ],
+        "track": "Drink with the Living Dead"
     },
     {
         "artist": "Godsmack",
@@ -62,10 +390,365 @@
             "hard rock",
             "metal",
             "nu metal",
-            "rock",
-            "godsmack"
+            "rock"
         ],
         "track": "I Stand Alone"
+    },
+    {
+        "artist": "Graham Candy",
+        "file_name": "Graham Candy - Addictive Personality.mp3",
+        "tags": [
+            "indie",
+            "indie pop",
+            "pop"
+        ],
+        "track": "Addictive Personality"
+    },
+    {
+        "artist": "Graham Candy",
+        "file_name": "Graham Candy - My Wellington.mp3",
+        "tags": [
+            "indie",
+            "indie pop",
+            "pop"
+        ],
+        "track": "My Wellington"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - 21 Guns.mp3",
+        "tags": [
+            "punk rock",
+            "rock",
+            "alternative rock",
+            "punk",
+            "green day"
+        ],
+        "track": "21 Guns"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Basket Case.mp3",
+        "tags": [
+            "punk rock",
+            "punk",
+            "rock",
+            "green day"
+        ],
+        "track": "Basket Case"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - East Jesus Nowhere.mp3",
+        "tags": [
+            "punk rock",
+            "rock",
+            "alternative rock",
+            "green day",
+            "garage rock"
+        ],
+        "track": "East Jesus Nowhere"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Holiday.mp3",
+        "tags": [
+            "punk rock",
+            "rock",
+            "punk",
+            "green day",
+            "alternative"
+        ],
+        "track": "Holiday"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Homecoming.mp3",
+        "tags": [
+            "punk rock",
+            "rock",
+            "punk",
+            "alternative rock"
+        ],
+        "track": "Homecoming"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Jesus Of Suburbia.mp3",
+        "tags": [
+            "punk rock",
+            "rock",
+            "punk",
+            "green day",
+            "alternative"
+        ],
+        "track": "Jesus Of Suburbia"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Minority.mp3",
+        "tags": [
+            "punk rock",
+            "punk",
+            "rock",
+            "green day",
+            "alternative"
+        ],
+        "track": "Minority"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Peacemaker.mp3",
+        "tags": [
+            "punk rock",
+            "alternative rock",
+            "rock",
+            "pop punk",
+            "green day"
+        ],
+        "track": "Peacemaker"
+    },
+    {
+        "artist": "Green Day",
+        "file_name": "Green Day - Wake Me Up When September End.mp3",
+        "tags": [
+            "rock",
+            "punk rock",
+            "alternative",
+            "green day",
+            "punk",
+            "pop punk"
+        ],
+        "track": "Wake Me Up When September End"
+    },
+    {
+        "artist": "Grouplove",
+        "file_name": "Grouplove - Ways To Go.mp3",
+        "tags": [
+            "indie",
+            "pop",
+            "alternative",
+            "indie rock",
+            "synth"
+        ],
+        "track": "Ways To Go"
+    },
+    {
+        "artist": "Iced Earth",
+        "file_name": "Iced Earth - When The Night Falls.mp3",
+        "tags": [
+            "power metal",
+            "heavy metal",
+            "thrash metal"
+        ],
+        "track": "When The Night Falls"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Battle Cry (Transformers Age of Extinction OST).mp3",
+        "tags": [
+            "indie",
+            "indie rock",
+            "alternative",
+            "rock",
+            "indie pop"
+        ],
+        "track": "Battle Cry (Transformers Age of Extinction OST)"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Hear Me.mp3",
+        "tags": [
+            "alternative",
+            "indie",
+            "alternative rock",
+            "rock",
+            "indie rock"
+        ],
+        "track": "Hear Me"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Nothing Left To Say  Rocks.mp3",
+        "tags": [
+            "indie",
+            "indie rock",
+            "alternative",
+            "rock",
+            "indie pop"
+        ],
+        "track": "Nothing Left To Say  Rocks"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Round and Round.mp3",
+        "tags": [
+            "alternative",
+            "indie",
+            "indie rock",
+            "rock",
+            "alternative rock"
+        ],
+        "track": "Round and Round"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Someday.mp3",
+        "tags": [
+            "indie",
+            "indie rock",
+            "alternative",
+            "rock",
+            "indie pop"
+        ],
+        "track": "Someday"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Thunder.mp3",
+        "tags": [
+            "alternative",
+            "indie pop",
+            "riverdale",
+            "pop"
+        ],
+        "track": "Thunder"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "file_name": "Imagine Dragons - Who We Are.mp3",
+        "tags": [
+            "indie rock",
+            "alternative rock",
+            "catching fire soundtrack",
+            "rock"
+        ],
+        "track": "Who We Are"
+    },
+    {
+        "artist": "Israel Kamakawiwoole",
+        "file_name": "Israel Kamakawiwoole - Over The Rainbow.mp3",
+        "tags": [
+            "acoustic",
+            "hawaiian",
+            "world",
+            "mellow",
+            "feel good songs"
+        ],
+        "track": "Over The Rainbow"
+    },
+    {
+        "artist": "Jack White",
+        "file_name": "Jack White - Im Shakin.mp3",
+        "tags": [
+            "rock",
+            "indie",
+            "indie rock",
+            "alternative"
+        ],
+        "track": "Im Shakin"
+    },
+    {
+        "artist": "Jack White",
+        "file_name": "Jack White - Weep Themselves to Sleep.mp3",
+        "tags": [
+            "rock",
+            "blues rock",
+            "garage rock"
+        ],
+        "track": "Weep Themselves to Sleep"
+    },
+    {
+        "artist": "Johnny Cash",
+        "file_name": "Johnny Cash - The Man Comes Around.mp3",
+        "tags": [
+            "country",
+            "folk",
+            "johnny cash",
+            "singer songwriter"
+        ],
+        "track": "The Man Comes Around"
+    },
+    {
+        "artist": "Ken Wilbard",
+        "file_name": "Ken Wilbard - Sing Sing A Song.mp3",
+        "tags": [
+            "disco"
+        ],
+        "track": "Sing Sing A Song"
+    },
+    {
+        "artist": "Kiss",
+        "file_name": "Kiss - I Was Made for Loving You.mp3",
+        "tags": [
+            "hard rock",
+            "rock",
+            "classic rock",
+            "glam rock"
+        ],
+        "track": "I Was Made for Loving You"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "file_name": "Led Zeppelin - Immigrant Song.mp3",
+        "tags": [
+            "classic rock",
+            "hard rock",
+            "rock",
+            "led zeppelin"
+        ],
+        "track": "Immigrant Song"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "file_name": "Led Zeppelin - Stairway to Heaven.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "hard rock",
+            "led zeppelin"
+        ],
+        "track": "Stairway to Heaven"
+    },
+    {
+        "artist": "Milky Chance",
+        "file_name": "Milky Chance - Down by the River.mp3",
+        "tags": [
+            "indie",
+            "itunes uk single of the week",
+            "german",
+            "pop"
+        ],
+        "track": "Down by the River"
+    },
+    {
+        "artist": "Milky Chance",
+        "file_name": "Milky Chance - Flashed Junk Mind.mp3",
+        "tags": [
+            "fip"
+        ],
+        "track": "Flashed Junk Mind"
+    },
+    {
+        "artist": "Milky Chance",
+        "file_name": "Milky Chance - Stolen Dance.mp3",
+        "tags": [
+            "fip",
+            "indie",
+            "indie folk"
+        ],
+        "track": "Stolen Dance"
+    },
+    {
+        "artist": "Mother Mother",
+        "file_name": "Mother Mother - Lets Fall In Love.mp3",
+        "tags": [
+            "indie rock",
+            "rock",
+            "indie",
+            "canadian"
+        ],
+        "track": "Lets Fall In Love"
     },
     {
         "artist": "Mozart",
@@ -79,15 +762,583 @@
         "track": "Requiem in D minor Complete Full"
     },
     {
+        "artist": "Muse",
+        "file_name": "Muse - Bliss.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "alternative",
+            "british",
+            "progressive rock"
+        ],
+        "track": "Bliss"
+    },
+    {
+        "artist": "Muse",
+        "file_name": "Muse - Feeling Good.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "cover",
+            "alternative"
+        ],
+        "track": "Feeling Good"
+    },
+    {
+        "artist": "Muse",
+        "file_name": "Muse - New Born.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "progressive rock",
+            "alternative"
+        ],
+        "track": "New Born"
+    },
+    {
+        "artist": "Muse",
+        "file_name": "Muse - Stockholm Syndrome.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "progressive rock",
+            "alternative"
+        ],
+        "track": "Stockholm Syndrome"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "file_name": "My Chemical Romance - Dead.mp3",
+        "tags": [
+            "rock",
+            "alternative",
+            "punk rock",
+            "emo",
+            "my chemical romance",
+            "alternative rock"
+        ],
+        "track": "Dead"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "file_name": "My Chemical Romance - Famous Last Words.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "my chemical romance",
+            "punk rock",
+            "emo"
+        ],
+        "track": "Famous Last Words"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "file_name": "My Chemical Romance - Sing.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "alternative",
+            "my chemical romance",
+            "oh my god this song is fucking amazing"
+        ],
+        "track": "Sing"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "file_name": "My Chemical Romance - The Sharpest Lives.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "alternative",
+            "my chemical romance",
+            "emo",
+            "punk rock"
+        ],
+        "track": "The Sharpest Lives"
+    },
+    {
+        "artist": "My Chemical Romance",
+        "file_name": "My Chemical Romance - Welcome To The Black Parade.mp3",
+        "tags": [
+            "rock",
+            "alternative",
+            "punk rock",
+            "emo",
+            "punk",
+            "my chemical romance"
+        ],
+        "track": "Welcome To The Black Parade"
+    },
+    {
+        "artist": "Nick Cave ft. The Bad Seeds",
+        "file_name": "Nick Cave ft. The Bad Seeds - O children.mp3",
+        "tags": [
+            "harry potter",
+            "beautiful",
+            "rock",
+            "alternative"
+        ],
+        "track": "O children"
+    },
+    {
         "artist": "Nirvana",
         "file_name": "Nirvana - Lithium.mp3",
         "tags": [
             "grunge",
             "rock",
-            "90s",
-            "alternative",
-            "nirvana"
+            "alternative"
         ],
         "track": "Lithium"
+    },
+    {
+        "artist": "Of Monsters and Men",
+        "file_name": "Of Monsters and Men - Little Talks.mp3",
+        "tags": [
+            "indie",
+            "folk",
+            "alternative",
+            "indie folk",
+            "icelandic"
+        ],
+        "track": "Little Talks"
+    },
+    {
+        "artist": "OneRepublic",
+        "file_name": "OneRepublic - Lets Hurt Tonight.mp3",
+        "tags": [
+            "pop rock",
+            "rock",
+            "alternative",
+            "alternative rock",
+            "indie"
+        ],
+        "track": "Lets Hurt Tonight"
+    },
+    {
+        "artist": "Patrick Watson",
+        "file_name": "Patrick Watson - Lighthouse.mp3",
+        "tags": [
+            "fip",
+            "folk",
+            "indie"
+        ],
+        "track": "Lighthouse"
+    },
+    {
+        "artist": "Paul McCartney and Michael Jackson",
+        "file_name": "Paul McCartney and Michael Jackson - Say Say Say.mp3",
+        "tags": [
+            "michael jackson",
+            "pop",
+            "paul mccartney"
+        ],
+        "track": "Say Say Say"
+    },
+    {
+        "artist": "Paul McCartney Wings",
+        "file_name": "Paul McCartney Wings - Band On The Run.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "paul mccartney",
+            "british"
+        ],
+        "track": "Band On The Run"
+    },
+    {
+        "artist": "Paul McCartney Wings",
+        "file_name": "Paul McCartney Wings - Live And Let Die.mp3",
+        "tags": [
+            "classic rock",
+            "rock",
+            "soundtrack",
+            "james bond",
+            "paul mccartney"
+        ],
+        "track": "Live And Let Die"
+    },
+    {
+        "artist": "Phoenix",
+        "file_name": "Phoenix - 1901.mp3",
+        "tags": [
+            "indie",
+            "indie pop",
+            "electronic",
+            "french",
+            "dance"
+        ],
+        "track": "1901"
+    },
+    {
+        "artist": "Phoenix",
+        "file_name": "Phoenix - North.mp3",
+        "tags": [
+            "instrumental",
+            "mellow",
+            "indie"
+        ],
+        "track": "North"
+    },
+    {
+        "artist": "Radiohead",
+        "file_name": "Radiohead - Creep [TopMusic].mp3",
+        "tags": [
+            "rock",
+            "alternative",
+            "alternative rock",
+            "indie",
+            "electronic"
+        ],
+        "track": "Creep [TopMusic]"
+    },
+    {
+        "artist": "Rihanna",
+        "file_name": "Rihanna - Love The Way You Lie (Solo).mp3",
+        "tags": [
+            "pop",
+            "rnb",
+            "female vocalists",
+            "dance",
+            "hip hop"
+        ],
+        "track": "Love The Way You Lie (Solo)"
+    },
+    {
+        "artist": "Rise Against",
+        "file_name": "Rise Against - Give It All.mp3",
+        "tags": [
+            "punk rock",
+            "punk",
+            "melodic hardcore",
+            "rock",
+            "hardcore"
+        ],
+        "track": "Give It All"
+    },
+    {
+        "artist": "Rise Against",
+        "file_name": "Rise Against - Hero Of War.mp3",
+        "tags": [
+            "acoustic",
+            "rock",
+            "anti war",
+            "melodic hardcore"
+        ],
+        "track": "Hero Of War"
+    },
+    {
+        "artist": "Rise Against",
+        "file_name": "Rise Against - Satellite.mp3",
+        "tags": [
+            "punk rock",
+            "melodic hardcore",
+            "rock"
+        ],
+        "track": "Satellite"
+    },
+    {
+        "artist": "Roy Orbison",
+        "file_name": "Roy Orbison - Oh, Pretty Woman.mp3",
+        "tags": [
+            "oldies",
+            "classic rock",
+            "rock n roll",
+            "rock"
+        ],
+        "track": "Oh, Pretty Woman"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - 21st Century Gentlemen.mp3",
+        "tags": [
+            "rock",
+            "alternative",
+            "alternative rock"
+        ],
+        "track": "21st Century Gentlemen"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - All because of you.mp3",
+        "tags": [
+            "alternative rock",
+            "swedish",
+            "alternative",
+            "rock"
+        ],
+        "track": "All because of you"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - Cry Baby Cry.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "garage rock"
+        ],
+        "track": "Cry Baby Cry"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - Molotov.mp3",
+        "tags": [
+            "alternative rock",
+            "garage rock",
+            "punk"
+        ],
+        "track": "Molotov"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - The End.mp3",
+        "tags": [
+            "alternative rock",
+            "rock",
+            "swedish"
+        ],
+        "track": "The End"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - The Royal.mp3",
+        "tags": [
+            "rock",
+            "alternative",
+            "alternative rock",
+            "swedish"
+        ],
+        "track": "The Royal"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - Tommy-Gun.mp3",
+        "tags": [
+            "rock",
+            "swedish",
+            "hard rock",
+            "garage rock",
+            "alternative"
+        ],
+        "track": "Tommy"
+    },
+    {
+        "artist": "Royal Republic",
+        "file_name": "Royal Republic - Underwear.mp3",
+        "tags": [
+            "rock",
+            "alternative rock"
+        ],
+        "track": "Underwear"
+    },
+    {
+        "artist": "Skrillex Ft. The Doors",
+        "file_name": "Skrillex Ft. The Doors - Breakn A Sweat (Zedd Remix).mp3",
+        "tags": [
+            "electronic",
+            "remix",
+            "dubstep",
+            "electro"
+        ],
+        "track": "Breakn A Sweat (Zedd Remix)"
+    },
+    {
+        "artist": "Snow patrol",
+        "file_name": "Snow patrol - Run.mp3",
+        "tags": [
+            "alternative",
+            "indie",
+            "rock",
+            "indie rock",
+            "snow patrol"
+        ],
+        "track": "Run"
+    },
+    {
+        "artist": "SpiderBait",
+        "file_name": "SpiderBait - Black Betty.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "cover",
+            "hard rock"
+        ],
+        "track": "Black Betty"
+    },
+    {
+        "artist": "Sum 41",
+        "file_name": "Sum 41 - Blood In My Eyes.mp3",
+        "tags": [
+            "punk rock",
+            "pop punk",
+            "alternative rock",
+            "alternative metal"
+        ],
+        "track": "Blood In My Eyes"
+    },
+    {
+        "artist": "Sum 41",
+        "file_name": "Sum 41 - Fat Lip.mp3",
+        "tags": [
+            "punk rock",
+            "punk",
+            "pop punk",
+            "rock"
+        ],
+        "track": "Fat Lip"
+    },
+    {
+        "artist": "The Coral",
+        "file_name": "The Coral - Dreaming Of You.mp3",
+        "tags": [
+            "indie",
+            "british",
+            "scrubs",
+            "indie rock",
+            "rock"
+        ],
+        "track": "Dreaming Of You"
+    },
+    {
+        "artist": "The Doors",
+        "file_name": "The Doors - Riders On The Storm (original version 1971).mp3",
+        "tags": [
+            "classic rock",
+            "psychedelic rock",
+            "rock",
+            "psychedelic"
+        ],
+        "track": "Riders On The Storm (original version 1971)"
+    },
+    {
+        "artist": "The Killers",
+        "file_name": "The Killers - Human.mp3",
+        "tags": [
+            "indie rock",
+            "indie",
+            "rock",
+            "the killers",
+            "pop",
+            "alternative"
+        ],
+        "track": "Human"
+    },
+    {
+        "artist": "The Killers",
+        "file_name": "The Killers - Mr Brightside (Original).mp3",
+        "tags": [
+            "indie",
+            "indie rock",
+            "rock",
+            "alternative",
+            "alternative rock"
+        ],
+        "track": "Mr Brightside (Original)"
+    },
+    {
+        "artist": "The Offspring",
+        "file_name": "The Offspring - Want You Bad.mp3",
+        "tags": [
+            "punk rock",
+            "punk",
+            "rock",
+            "alternative",
+            "the offspring"
+        ],
+        "track": "Want You Bad"
+    },
+    {
+        "artist": "The Vaccines",
+        "file_name": "The Vaccines - If you wanna.mp3",
+        "tags": [
+            "indie rock",
+            "indie",
+            "british",
+            "alternative",
+            "rock"
+        ],
+        "track": "If you wanna"
+    },
+    {
+        "artist": "The White Stripes",
+        "file_name": "The White Stripes - Apple Blossom.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "indie",
+            "indie rock",
+            "blues rock"
+        ],
+        "track": "Apple Blossom"
+    },
+    {
+        "artist": "The White Stripes",
+        "file_name": "The White Stripes - Icky Thump.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "indie rock",
+            "indie",
+            "garage rock"
+        ],
+        "track": "Icky Thump"
+    },
+    {
+        "artist": "The White Stripes",
+        "file_name": "The White Stripes - Stop Breaking Down.mp3",
+        "tags": [
+            "rock",
+            "cover",
+            "blues",
+            "garage rock",
+            "blues rock",
+            "alternative rock"
+        ],
+        "track": "Stop Breaking Down"
+    },
+    {
+        "artist": "The White Stripes",
+        "file_name": "The White Stripes - The Denial Twist.mp3",
+        "tags": [
+            "rock",
+            "alternative rock",
+            "alternative",
+            "indie rock",
+            "garage rock",
+            "indie"
+        ],
+        "track": "The Denial Twist"
+    },
+    {
+        "artist": "The Who",
+        "file_name": "The Who - Baba ORiley.mp3",
+        "tags": [
+            "classic rock"
+        ],
+        "track": "Baba ORiley"
+    },
+    {
+        "artist": "U2",
+        "file_name": "U2 - City of blinding lights.mp3",
+        "tags": [
+            "rock",
+            "irish",
+            "alternative"
+        ],
+        "track": "City of blinding lights"
+    },
+    {
+        "artist": "Youth Group",
+        "file_name": "Youth Group - Forever Young.mp3",
+        "tags": [
+            "cover",
+            "indie",
+            "indie rock",
+            "the oc",
+            "rock"
+        ],
+        "track": "Forever Young"
     }
 ]
