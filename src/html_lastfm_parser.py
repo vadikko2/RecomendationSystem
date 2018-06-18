@@ -1,11 +1,37 @@
+
+# coding: utf-8
+
+# In[1]:
+
+
 import requests as req
 import lxml.html
 import json
 import re, os
-import sys
+import pickle
+import codecs
+import operator
 import numpy as np
 
-# подгрузка тегов с сайта last.fm
+
+# In[2]:
+
+
+def tags_filter(tags, artist, track):
+    filtered = []
+    garbage = [str(i) for i in range(10)]
+    for tag in tags:
+        check = True
+        for g in garbage:
+            if (g in tag) or (artist in tag) or (track in tag):
+                check = False
+                break
+        if check:
+            filtered.append(tag)
+    return filtered
+
+
+# In[3]:
 
 
 def get_song_tags(artist = "", track = ""):
@@ -16,11 +42,13 @@ def get_song_tags(artist = "", track = ""):
     html = lxml.html.fromstring(html_from_last_fm)
     track_dict = {'artist': artist, 'track': track, 'tags':[]}
     for li in html.xpath("//ul[@class='tags-list tags-list--global']/li"):
-        track_dict['tags'].append(li.text_content())
+        track_dict['tags'].append(str(li.text_content().lower().replace('-', ' ')))
+    track_dict['tags'] = tags_filter(track_dict['tags'], tmp_artist, tmp_track)
+    print('{artist}-{track} tags was parsed: {tags}'.format(artist=artist, track=track, tags=track_dict['tags']))
     return track_dict
 
 
-# парсинг плейлиста пользователя
+# In[4]:
 
 
 def get_track_list(path):
@@ -33,62 +61,127 @@ def get_track_list(path):
         yield track_info[0], track_info[1], file
 
 
-# генерация json файла с тегами. 1 ползователь -> 1 json
+# In[5]:
 
 
 def get_json(path):
     info = []
     for artist, track, file_name in get_track_list(path):
         meta = get_song_tags(artist= artist, track= track)
-        meta['file_name'] =file_name
-        meta['path'] = os.path.abspath(path)
-        info.append(meta)
+        meta['file_name'] = file_name
+        if meta['tags']:
+            info.append(meta)
     return info
 
 
-# сохранение json-а в файл по указанному пути
+# In[6]:
 
 
 def dump(info, path, user_id):
     with open(path+f'{user_id}_info.json', 'w') as fp:
-        json.dump(info, fp)
+        json.dump(info, fp, sort_keys=True, indent=4)
 
 
-# сделать один семпл выборки (индекс пользователя в базе надо определить где-то снаружи)
+# In[7]:
 
 
-def make_sample(path_from, path_to, user_number):
-    info = get_json(path_from)
-    dump(info,path_to, user_number)
-    return info
+def load_ganres(path):
+    for filename in os.listdir(os.path.abspath(path)):
+        sub_ganres = []
+        with open(os.path.abspath(path)+'\\'+filename, 'r') as f:
+            yield filename[:-4], [tag.lower().replace('-', ' ') for tag in f.read().split('\n')]
 
 
-# трансформация Y в вид, подходящий для multi-lable classification
+# In[8]:
 
 
-def y_statistic(path_with_jsons):
-    labels = set()
-    for json_name in os.listdir(path_with_jsons):
-        meta = json.load(open(os.path.abspath(path_with_jsons+json_name)))
-        for song in meta:
-            for tag in song['tags']:
-                labels.add(tag)
-    return labels
-
-def y_transform(statistic, Y):
-    for y in Y:
-        new_y = list(statistic)
-        for i in range(0, len(new_y)):
-            if new_y[i] in y:
-                new_y[i] = 1
-            else:
-                new_y[i] = 0
-        yield np.asarray(list(new_y))
+def dump_ganres_co_occ(co_occ_path, co_occ):
+    with open(co_occ_path+'ganresCoOcc.pkl', 'wb') as f:
+        pickle.dump(co_occ, f, pickle.HIGHEST_PROTOCOL)    
 
 
+# In[9]:
 
 
-if __name__ == '__main__':
-	make_sample(sys.argv[1], sys.argv[2], int(sys.argv[3]))
-	
+def init_ganres_co_occ(path, co_occ_path):
+    co_occ = {}
+    for ganre, sub_ganres in load_ganres(path):
+        for sg in sub_ganres:
+            co_occ[sg] = 0
+    dump_ganres_co_occ(co_occ_path, co_occ)
+    return co_occ
+
+
+# In[10]:
+
+
+def who_exist(co_occ_el, tags):
+    first = co_occ_el.keys()
+    result = []
+    for t in tags:
+        if t in first:
+            result.append(t)
+    return result
+
+
+# In[11]:
+
+
+def update_ganres_co_occ(co_occ, dataset_json):
+    for song in dataset_json:
+        tags = song['tags']
+        existed = who_exist(co_occ, tags)
+        if len(existed):
+            for tag in tags:
+                if tag in existed:
+                    co_occ[tag]+=1
+                else:
+                    co_occ[tag] = 1
+    return co_occ
+
+
+# In[12]:
+
+
+def init_co_occ_matrix(path_with_ganres='..\\ganres_full\\', path_to_save='..\\'):
+    co_occ = init_ganres_co_occ(path=path_with_ganres, co_occ_path=path_to_save)
+    print(co_occ)
+    return co_occ
+
+
+# In[13]:
+
+
+def update_co_occ_matrix(co_occ, path_with_tracks='..\\tracks\\', path_to_save_info='..\\jsons\\', path_to_save_co_occ='..\\'):
+    for folder in os.listdir(path_with_tracks):
+        info = get_json('{path}{folder}\\'.format(folder=folder, path=path_with_tracks))
+        dump(info, path_to_save_info, folder)
+        co_occ = update_ganres_co_occ(co_occ, info)
+        dump_ganres_co_occ(path_to_save_co_occ, co_occ)
+        dump(co_occ,path_to_save_co_occ, 'co_occ')
+    return co_occ
+
+
+# In[14]:
+
+
+def load_co_occ(path='..\\', filename='ganresCoOcc.pkl'):
+    with open(path+filename, 'rb') as f:
+        co_occ = pickle.load(f)
+    co_occ = sorted(co_occ.items(), key=operator.itemgetter(1))
+    co_occ.reverse()
+    return co_occ
+
+
+# In[15]:
+
+
+def get_y(co_occ, tags):
+    y = np.zeros(len(co_occ))
+    for tag in tags:
+        for i in range(len(co_occ)):
+            if co_occ[i][0] == tag:
+                y[i] = 1
+                break
+    return y
 
