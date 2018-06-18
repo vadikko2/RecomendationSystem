@@ -1,6 +1,7 @@
 [
     {
         "artist": "2Pac",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\2Pac - Dear Mama",
         "file_name": "2Pac - Dear Mama.mp3",
         "tags": [
             "rap",
@@ -12,6 +13,7 @@
     },
     {
         "artist": "a ha",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\a ha - Crying in the Rain",
         "file_name": "a ha - Crying in the Rain.mp3",
         "tags": [
             "pop",
@@ -23,6 +25,7 @@
     },
     {
         "artist": "AC_DC",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\AC_DC - Hells Bells",
         "file_name": "AC_DC - Hells Bells.mp3",
         "tags": [
             "hard rock",
@@ -34,6 +37,7 @@
     },
     {
         "artist": "Andrew Morris",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Andrew Morris - Dust",
         "file_name": "Andrew Morris - Dust.mp3",
         "tags": [
             "australian"
@@ -42,6 +46,7 @@
     },
     {
         "artist": "Barenaked Ladies",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Barenaked Ladies - Big Bang Theory Theme",
         "file_name": "Barenaked Ladies - Big Bang Theory Theme.mp3",
         "tags": [
             "big bang theory",
@@ -53,6 +58,7 @@
     },
     {
         "artist": "Bee Gees",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Bee Gees - Spicks And Specks",
         "file_name": "Bee Gees - Spicks And Specks.mp3",
         "tags": [
             "oldies",
@@ -63,6 +69,7 @@
     },
     {
         "artist": "Bee Gees",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Bee Gees - Stayn Alive",
         "file_name": "Bee Gees - Stayn Alive.mp3",
         "tags": [
             "disco",
@@ -74,6 +81,7 @@
     },
     {
         "artist": "Black Veil Brides",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Black Veil Brides - In the End",
         "file_name": "Black Veil Brides - In the End.mp3",
         "tags": [
             "hard rock",
@@ -85,6 +93,7 @@
     },
     {
         "artist": "Blink 182",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blink 182 - All The Small Things",
         "file_name": "Blink 182 - All The Small Things.mp3",
         "tags": [
             "punk rock",
@@ -96,6 +105,7 @@
     },
     {
         "artist": "Blink 182",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blink 182 - Love is Dangerous",
         "file_name": "Blink 182 - Love is Dangerous.mp3",
         "tags": [
             "pop punk",
@@ -107,6 +117,7 @@
     },
     {
         "artist": "Blink 182",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blink 182 - Phantom of the Opera",
         "file_name": "Blink 182 - Phantom of the Opera.mp3",
         "tags": [
             "punk rock",
@@ -119,6 +130,7 @@
     },
     {
         "artist": "Blink 182",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blink 182 - Stockholm Syndrome",
         "file_name": "Blink 182 - Stockholm Syndrome.mp3",
         "tags": [
             "punk rock",
@@ -131,6 +143,7 @@
     },
     {
         "artist": "Blink 182",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blink 182 - Whats My Age Again",
         "file_name": "Blink 182 - Whats My Age Again.mp3",
         "tags": [
             "punk rock",
@@ -142,6 +155,7 @@
     },
     {
         "artist": "Blonde Redhead",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Blonde Redhead - For The Damaged Coda  (OST Rick and Morty S1Ep10)",
         "file_name": "Blonde Redhead - For The Damaged Coda  (OST Rick and Morty S1Ep10).mp3",
         "tags": [
             "indie",
@@ -154,6 +168,7 @@
     },
     {
         "artist": "Bob Dylan",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Bob Dylan - Knocking on heavens door",
         "file_name": "Bob Dylan - Knocking on heavens door.mp3",
         "tags": [
             "classic rock",
@@ -166,6 +181,7 @@
     },
     {
         "artist": "Brad Breeck",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Brad Breeck - Mr. Brightside at Gravity Falls (feat. The Killers)",
         "file_name": "Brad Breeck - Mr. Brightside at Gravity Falls (feat. The Killers).mp3",
         "tags": [
             "soundtrack",
@@ -175,6 +191,7 @@
     },
     {
         "artist": "Coldplay",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Coldplay - Atlas",
         "file_name": "Coldplay - Atlas.mp3",
         "tags": [
             "soundtrack",
@@ -186,6 +203,7 @@
     },
     {
         "artist": "Coldplay",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Coldplay - Viva La Vida",
         "file_name": "Coldplay - Viva La Vida.mp3",
         "tags": [
             "alternative",
@@ -196,6 +214,7 @@
     },
     {
         "artist": "Deuce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Deuce - 01. The One",
         "file_name": "Deuce - 01. The One.mp3",
         "tags": [
             "rapcore",
@@ -207,6 +226,7 @@
     },
     {
         "artist": "Dispatch",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dispatch - Circles Around The Sun",
         "file_name": "Dispatch - Circles Around The Sun.mp3",
         "tags": [
             "catchy",
@@ -218,6 +238,7 @@
     },
     {
         "artist": "DJ Snake",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\DJ Snake - Magenta Riddim",
         "file_name": "DJ Snake - Magenta Riddim.mp3",
         "tags": [
             "party",
@@ -227,6 +248,7 @@
     },
     {
         "artist": "Dragonforce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dragonforce - Black Fire 2010",
         "file_name": "Dragonforce - Black Fire 2010.mp3",
         "tags": [
             "power metal",
@@ -238,6 +260,7 @@
     },
     {
         "artist": "DragonForce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\DragonForce - Cry For Eternity",
         "file_name": "DragonForce - Cry For Eternity.mp3",
         "tags": [
             "power metal",
@@ -249,6 +272,7 @@
     },
     {
         "artist": "DragonForce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\DragonForce - Cry Of The Brave",
         "file_name": "DragonForce - Cry Of The Brave.mp3",
         "tags": [
             "power metal",
@@ -259,6 +283,7 @@
     },
     {
         "artist": "Dragonforce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dragonforce - Disciples Of Babylon",
         "file_name": "Dragonforce - Disciples Of Babylon.mp3",
         "tags": [
             "power metal",
@@ -270,6 +295,7 @@
     },
     {
         "artist": "Dragonforce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dragonforce - My Spirit Will Go On",
         "file_name": "Dragonforce - My Spirit Will Go On.mp3",
         "tags": [
             "power metal",
@@ -281,6 +307,7 @@
     },
     {
         "artist": "DragonForce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\DragonForce - Revolution Deathsquad",
         "file_name": "DragonForce - Revolution Deathsquad.mp3",
         "tags": [
             "power metal",
@@ -292,6 +319,7 @@
     },
     {
         "artist": "Dragonforce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dragonforce - Trough The Fire And Flames",
         "file_name": "Dragonforce - Trough The Fire And Flames.mp3",
         "tags": [
             "power metal",
@@ -303,6 +331,7 @@
     },
     {
         "artist": "Dragonforce",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dragonforce - Valley of the Damned 2010",
         "file_name": "Dragonforce - Valley of the Damned 2010.mp3",
         "tags": [
             "power metal",
@@ -314,6 +343,7 @@
     },
     {
         "artist": "Dropkick Murphys",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Dropkick Murphys - Rose Tattoo",
         "file_name": "Dropkick Murphys - Rose Tattoo.mp3",
         "tags": [
             "folk",
@@ -324,6 +354,7 @@
     },
     {
         "artist": "Edwin Star",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Edwin Star - War",
         "file_name": "Edwin Star - War.mp3",
         "tags": [
             "soul",
@@ -334,6 +365,7 @@
     },
     {
         "artist": "Elthon John",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Elthon John - Sacrifice",
         "file_name": "Elthon John - Sacrifice.mp3",
         "tags": [
             "pop",
@@ -345,6 +377,7 @@
     },
     {
         "artist": "Eminem",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Eminem - Framed",
         "file_name": "Eminem - Framed.mp3",
         "tags": [
             "american",
@@ -354,6 +387,7 @@
     },
     {
         "artist": "Fools garden",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Fools garden - Yellow Lemon Tree",
         "file_name": "Fools garden - Yellow Lemon Tree.mp3",
         "tags": [
             "pop",
@@ -365,6 +399,7 @@
     },
     {
         "artist": "Foreigner",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Foreigner - Cold As Ice",
         "file_name": "Foreigner - Cold As Ice.mp3",
         "tags": [
             "classic rock",
@@ -374,6 +409,7 @@
     },
     {
         "artist": "Ghoultown",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Ghoultown - Drink with the Living Dead",
         "file_name": "Ghoultown - Drink with the Living Dead.mp3",
         "tags": [
             "psychobilly",
@@ -385,6 +421,7 @@
     },
     {
         "artist": "Godsmack",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Godsmack - I Stand Alone",
         "file_name": "Godsmack - I Stand Alone.mp3",
         "tags": [
             "hard rock",
@@ -396,6 +433,7 @@
     },
     {
         "artist": "Graham Candy",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Graham Candy - Addictive Personality",
         "file_name": "Graham Candy - Addictive Personality.mp3",
         "tags": [
             "indie",
@@ -406,6 +444,7 @@
     },
     {
         "artist": "Graham Candy",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Graham Candy - My Wellington",
         "file_name": "Graham Candy - My Wellington.mp3",
         "tags": [
             "indie",
@@ -416,6 +455,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - 21 Guns",
         "file_name": "Green Day - 21 Guns.mp3",
         "tags": [
             "punk rock",
@@ -428,6 +468,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Basket Case",
         "file_name": "Green Day - Basket Case.mp3",
         "tags": [
             "punk rock",
@@ -439,6 +480,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - East Jesus Nowhere",
         "file_name": "Green Day - East Jesus Nowhere.mp3",
         "tags": [
             "punk rock",
@@ -451,6 +493,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Holiday",
         "file_name": "Green Day - Holiday.mp3",
         "tags": [
             "punk rock",
@@ -463,6 +506,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Homecoming",
         "file_name": "Green Day - Homecoming.mp3",
         "tags": [
             "punk rock",
@@ -474,6 +518,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Jesus Of Suburbia",
         "file_name": "Green Day - Jesus Of Suburbia.mp3",
         "tags": [
             "punk rock",
@@ -486,6 +531,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Minority",
         "file_name": "Green Day - Minority.mp3",
         "tags": [
             "punk rock",
@@ -498,6 +544,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Peacemaker",
         "file_name": "Green Day - Peacemaker.mp3",
         "tags": [
             "punk rock",
@@ -510,6 +557,7 @@
     },
     {
         "artist": "Green Day",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Green Day - Wake Me Up When September End",
         "file_name": "Green Day - Wake Me Up When September End.mp3",
         "tags": [
             "rock",
@@ -523,6 +571,7 @@
     },
     {
         "artist": "Grouplove",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Grouplove - Ways To Go",
         "file_name": "Grouplove - Ways To Go.mp3",
         "tags": [
             "indie",
@@ -535,6 +584,7 @@
     },
     {
         "artist": "Iced Earth",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Iced Earth - When The Night Falls",
         "file_name": "Iced Earth - When The Night Falls.mp3",
         "tags": [
             "power metal",
@@ -545,6 +595,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Battle Cry (Transformers Age of Extinction OST)",
         "file_name": "Imagine Dragons - Battle Cry (Transformers Age of Extinction OST).mp3",
         "tags": [
             "indie",
@@ -557,6 +608,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Hear Me",
         "file_name": "Imagine Dragons - Hear Me.mp3",
         "tags": [
             "alternative",
@@ -569,6 +621,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Nothing Left To Say  Rocks",
         "file_name": "Imagine Dragons - Nothing Left To Say  Rocks.mp3",
         "tags": [
             "indie",
@@ -581,6 +634,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Round and Round",
         "file_name": "Imagine Dragons - Round and Round.mp3",
         "tags": [
             "alternative",
@@ -593,6 +647,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Someday",
         "file_name": "Imagine Dragons - Someday.mp3",
         "tags": [
             "indie",
@@ -605,6 +660,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Thunder",
         "file_name": "Imagine Dragons - Thunder.mp3",
         "tags": [
             "alternative",
@@ -616,6 +672,7 @@
     },
     {
         "artist": "Imagine Dragons",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Imagine Dragons - Who We Are",
         "file_name": "Imagine Dragons - Who We Are.mp3",
         "tags": [
             "indie rock",
@@ -627,6 +684,7 @@
     },
     {
         "artist": "Israel Kamakawiwoole",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Israel Kamakawiwoole - Over The Rainbow",
         "file_name": "Israel Kamakawiwoole - Over The Rainbow.mp3",
         "tags": [
             "acoustic",
@@ -639,6 +697,7 @@
     },
     {
         "artist": "Jack White",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Jack White - Im Shakin",
         "file_name": "Jack White - Im Shakin.mp3",
         "tags": [
             "rock",
@@ -650,6 +709,7 @@
     },
     {
         "artist": "Jack White",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Jack White - Weep Themselves to Sleep",
         "file_name": "Jack White - Weep Themselves to Sleep.mp3",
         "tags": [
             "rock",
@@ -660,6 +720,7 @@
     },
     {
         "artist": "Johnny Cash",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Johnny Cash - The Man Comes Around",
         "file_name": "Johnny Cash - The Man Comes Around.mp3",
         "tags": [
             "country",
@@ -671,6 +732,7 @@
     },
     {
         "artist": "Ken Wilbard",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Ken Wilbard - Sing Sing A Song",
         "file_name": "Ken Wilbard - Sing Sing A Song.mp3",
         "tags": [
             "disco"
@@ -679,6 +741,7 @@
     },
     {
         "artist": "Kiss",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Kiss - I Was Made for Loving You",
         "file_name": "Kiss - I Was Made for Loving You.mp3",
         "tags": [
             "hard rock",
@@ -690,6 +753,7 @@
     },
     {
         "artist": "Led Zeppelin",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Led Zeppelin - Immigrant Song",
         "file_name": "Led Zeppelin - Immigrant Song.mp3",
         "tags": [
             "classic rock",
@@ -701,6 +765,7 @@
     },
     {
         "artist": "Led Zeppelin",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Led Zeppelin - Stairway to Heaven",
         "file_name": "Led Zeppelin - Stairway to Heaven.mp3",
         "tags": [
             "classic rock",
@@ -712,6 +777,7 @@
     },
     {
         "artist": "Milky Chance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Milky Chance - Down by the River",
         "file_name": "Milky Chance - Down by the River.mp3",
         "tags": [
             "indie",
@@ -723,6 +789,7 @@
     },
     {
         "artist": "Milky Chance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Milky Chance - Flashed Junk Mind",
         "file_name": "Milky Chance - Flashed Junk Mind.mp3",
         "tags": [
             "fip"
@@ -731,6 +798,7 @@
     },
     {
         "artist": "Milky Chance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Milky Chance - Stolen Dance",
         "file_name": "Milky Chance - Stolen Dance.mp3",
         "tags": [
             "fip",
@@ -741,6 +809,7 @@
     },
     {
         "artist": "Mother Mother",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Mother Mother - Lets Fall In Love",
         "file_name": "Mother Mother - Lets Fall In Love.mp3",
         "tags": [
             "indie rock",
@@ -752,6 +821,7 @@
     },
     {
         "artist": "Mozart",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Mozart - Requiem in D minor Complete Full",
         "file_name": "Mozart - Requiem in D minor Complete Full.mp3",
         "tags": [
             "classical",
@@ -763,6 +833,7 @@
     },
     {
         "artist": "Muse",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Muse - Bliss",
         "file_name": "Muse - Bliss.mp3",
         "tags": [
             "alternative rock",
@@ -775,6 +846,7 @@
     },
     {
         "artist": "Muse",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Muse - Feeling Good",
         "file_name": "Muse - Feeling Good.mp3",
         "tags": [
             "rock",
@@ -786,6 +858,7 @@
     },
     {
         "artist": "Muse",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Muse - New Born",
         "file_name": "Muse - New Born.mp3",
         "tags": [
             "alternative rock",
@@ -797,6 +870,7 @@
     },
     {
         "artist": "Muse",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Muse - Stockholm Syndrome",
         "file_name": "Muse - Stockholm Syndrome.mp3",
         "tags": [
             "alternative rock",
@@ -808,6 +882,7 @@
     },
     {
         "artist": "My Chemical Romance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\My Chemical Romance - Dead",
         "file_name": "My Chemical Romance - Dead.mp3",
         "tags": [
             "rock",
@@ -821,6 +896,7 @@
     },
     {
         "artist": "My Chemical Romance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\My Chemical Romance - Famous Last Words",
         "file_name": "My Chemical Romance - Famous Last Words.mp3",
         "tags": [
             "rock",
@@ -834,6 +910,7 @@
     },
     {
         "artist": "My Chemical Romance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\My Chemical Romance - Sing",
         "file_name": "My Chemical Romance - Sing.mp3",
         "tags": [
             "alternative rock",
@@ -846,6 +923,7 @@
     },
     {
         "artist": "My Chemical Romance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\My Chemical Romance - The Sharpest Lives",
         "file_name": "My Chemical Romance - The Sharpest Lives.mp3",
         "tags": [
             "alternative rock",
@@ -859,6 +937,7 @@
     },
     {
         "artist": "My Chemical Romance",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\My Chemical Romance - Welcome To The Black Parade",
         "file_name": "My Chemical Romance - Welcome To The Black Parade.mp3",
         "tags": [
             "rock",
@@ -872,6 +951,7 @@
     },
     {
         "artist": "Nick Cave ft. The Bad Seeds",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Nick Cave ft. The Bad Seeds - O children",
         "file_name": "Nick Cave ft. The Bad Seeds - O children.mp3",
         "tags": [
             "harry potter",
@@ -883,6 +963,7 @@
     },
     {
         "artist": "Nirvana",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Nirvana - Lithium",
         "file_name": "Nirvana - Lithium.mp3",
         "tags": [
             "grunge",
@@ -893,6 +974,7 @@
     },
     {
         "artist": "Of Monsters and Men",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Of Monsters and Men - Little Talks",
         "file_name": "Of Monsters and Men - Little Talks.mp3",
         "tags": [
             "indie",
@@ -905,6 +987,7 @@
     },
     {
         "artist": "OneRepublic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\OneRepublic - Lets Hurt Tonight",
         "file_name": "OneRepublic - Lets Hurt Tonight.mp3",
         "tags": [
             "pop rock",
@@ -917,6 +1000,7 @@
     },
     {
         "artist": "Patrick Watson",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Patrick Watson - Lighthouse",
         "file_name": "Patrick Watson - Lighthouse.mp3",
         "tags": [
             "fip",
@@ -927,6 +1011,7 @@
     },
     {
         "artist": "Paul McCartney and Michael Jackson",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Paul McCartney and Michael Jackson - Say Say Say",
         "file_name": "Paul McCartney and Michael Jackson - Say Say Say.mp3",
         "tags": [
             "michael jackson",
@@ -937,6 +1022,7 @@
     },
     {
         "artist": "Paul McCartney Wings",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Paul McCartney Wings - Band On The Run",
         "file_name": "Paul McCartney Wings - Band On The Run.mp3",
         "tags": [
             "classic rock",
@@ -948,6 +1034,7 @@
     },
     {
         "artist": "Paul McCartney Wings",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Paul McCartney Wings - Live And Let Die",
         "file_name": "Paul McCartney Wings - Live And Let Die.mp3",
         "tags": [
             "classic rock",
@@ -960,6 +1047,7 @@
     },
     {
         "artist": "Phoenix",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Phoenix - 1901",
         "file_name": "Phoenix - 1901.mp3",
         "tags": [
             "indie",
@@ -972,6 +1060,7 @@
     },
     {
         "artist": "Phoenix",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Phoenix - North",
         "file_name": "Phoenix - North.mp3",
         "tags": [
             "instrumental",
@@ -982,6 +1071,7 @@
     },
     {
         "artist": "Radiohead",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Radiohead - Creep [TopMusic]",
         "file_name": "Radiohead - Creep [TopMusic].mp3",
         "tags": [
             "rock",
@@ -994,6 +1084,7 @@
     },
     {
         "artist": "Rihanna",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Rihanna - Love The Way You Lie (Solo)",
         "file_name": "Rihanna - Love The Way You Lie (Solo).mp3",
         "tags": [
             "pop",
@@ -1006,6 +1097,7 @@
     },
     {
         "artist": "Rise Against",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Rise Against - Give It All",
         "file_name": "Rise Against - Give It All.mp3",
         "tags": [
             "punk rock",
@@ -1018,6 +1110,7 @@
     },
     {
         "artist": "Rise Against",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Rise Against - Hero Of War",
         "file_name": "Rise Against - Hero Of War.mp3",
         "tags": [
             "acoustic",
@@ -1029,6 +1122,7 @@
     },
     {
         "artist": "Rise Against",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Rise Against - Satellite",
         "file_name": "Rise Against - Satellite.mp3",
         "tags": [
             "punk rock",
@@ -1039,6 +1133,7 @@
     },
     {
         "artist": "Roy Orbison",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Roy Orbison - Oh, Pretty Woman",
         "file_name": "Roy Orbison - Oh, Pretty Woman.mp3",
         "tags": [
             "oldies",
@@ -1050,6 +1145,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - 21st Century Gentlemen",
         "file_name": "Royal Republic - 21st Century Gentlemen.mp3",
         "tags": [
             "rock",
@@ -1060,6 +1156,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - All because of you",
         "file_name": "Royal Republic - All because of you.mp3",
         "tags": [
             "alternative rock",
@@ -1071,6 +1168,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - Cry Baby Cry",
         "file_name": "Royal Republic - Cry Baby Cry.mp3",
         "tags": [
             "alternative rock",
@@ -1081,6 +1179,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - Molotov",
         "file_name": "Royal Republic - Molotov.mp3",
         "tags": [
             "alternative rock",
@@ -1091,6 +1190,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - The End",
         "file_name": "Royal Republic - The End.mp3",
         "tags": [
             "alternative rock",
@@ -1101,6 +1201,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - The Royal",
         "file_name": "Royal Republic - The Royal.mp3",
         "tags": [
             "rock",
@@ -1112,6 +1213,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - Tommy-Gun",
         "file_name": "Royal Republic - Tommy-Gun.mp3",
         "tags": [
             "rock",
@@ -1124,6 +1226,7 @@
     },
     {
         "artist": "Royal Republic",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Royal Republic - Underwear",
         "file_name": "Royal Republic - Underwear.mp3",
         "tags": [
             "rock",
@@ -1133,6 +1236,7 @@
     },
     {
         "artist": "Skrillex Ft. The Doors",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Skrillex Ft. The Doors - Breakn A Sweat (Zedd Remix)",
         "file_name": "Skrillex Ft. The Doors - Breakn A Sweat (Zedd Remix).mp3",
         "tags": [
             "electronic",
@@ -1144,6 +1248,7 @@
     },
     {
         "artist": "Snow patrol",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Snow patrol - Run",
         "file_name": "Snow patrol - Run.mp3",
         "tags": [
             "alternative",
@@ -1156,6 +1261,7 @@
     },
     {
         "artist": "SpiderBait",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\SpiderBait - Black Betty",
         "file_name": "SpiderBait - Black Betty.mp3",
         "tags": [
             "rock",
@@ -1167,6 +1273,7 @@
     },
     {
         "artist": "Sum 41",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Sum 41 - Blood In My Eyes",
         "file_name": "Sum 41 - Blood In My Eyes.mp3",
         "tags": [
             "punk rock",
@@ -1178,6 +1285,7 @@
     },
     {
         "artist": "Sum 41",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Sum 41 - Fat Lip",
         "file_name": "Sum 41 - Fat Lip.mp3",
         "tags": [
             "punk rock",
@@ -1189,6 +1297,7 @@
     },
     {
         "artist": "The Coral",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Coral - Dreaming Of You",
         "file_name": "The Coral - Dreaming Of You.mp3",
         "tags": [
             "indie",
@@ -1201,6 +1310,7 @@
     },
     {
         "artist": "The Doors",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Doors - Riders On The Storm (original version 1971)",
         "file_name": "The Doors - Riders On The Storm (original version 1971).mp3",
         "tags": [
             "classic rock",
@@ -1212,6 +1322,7 @@
     },
     {
         "artist": "The Killers",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Killers - Human",
         "file_name": "The Killers - Human.mp3",
         "tags": [
             "indie rock",
@@ -1225,6 +1336,7 @@
     },
     {
         "artist": "The Killers",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Killers - Mr Brightside (Original)",
         "file_name": "The Killers - Mr Brightside (Original).mp3",
         "tags": [
             "indie",
@@ -1237,6 +1349,7 @@
     },
     {
         "artist": "The Offspring",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Offspring - Want You Bad",
         "file_name": "The Offspring - Want You Bad.mp3",
         "tags": [
             "punk rock",
@@ -1249,6 +1362,7 @@
     },
     {
         "artist": "The Vaccines",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Vaccines - If you wanna",
         "file_name": "The Vaccines - If you wanna.mp3",
         "tags": [
             "indie rock",
@@ -1261,6 +1375,7 @@
     },
     {
         "artist": "The White Stripes",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The White Stripes - Apple Blossom",
         "file_name": "The White Stripes - Apple Blossom.mp3",
         "tags": [
             "rock",
@@ -1274,6 +1389,7 @@
     },
     {
         "artist": "The White Stripes",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The White Stripes - Icky Thump",
         "file_name": "The White Stripes - Icky Thump.mp3",
         "tags": [
             "rock",
@@ -1287,6 +1403,7 @@
     },
     {
         "artist": "The White Stripes",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The White Stripes - Stop Breaking Down",
         "file_name": "The White Stripes - Stop Breaking Down.mp3",
         "tags": [
             "rock",
@@ -1300,6 +1417,7 @@
     },
     {
         "artist": "The White Stripes",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The White Stripes - The Denial Twist",
         "file_name": "The White Stripes - The Denial Twist.mp3",
         "tags": [
             "rock",
@@ -1313,6 +1431,7 @@
     },
     {
         "artist": "The Who",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\The Who - Baba ORiley",
         "file_name": "The Who - Baba ORiley.mp3",
         "tags": [
             "classic rock"
@@ -1321,6 +1440,7 @@
     },
     {
         "artist": "U2",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\U2 - City of blinding lights",
         "file_name": "U2 - City of blinding lights.mp3",
         "tags": [
             "rock",
@@ -1331,6 +1451,7 @@
     },
     {
         "artist": "Youth Group",
+        "features": "c:\\Users\\Kozyrevsky-V\\Documents\\recom\\RecomendationSystem\\mfccs\\Youth Group - Forever Young",
         "file_name": "Youth Group - Forever Young.mp3",
         "tags": [
             "cover",
